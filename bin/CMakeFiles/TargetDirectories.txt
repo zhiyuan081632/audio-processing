@@ -1,0 +1,4 @@
+/home/zhihui/work/project/prjANS/WebRTC-audio-processing/bin/CMakeFiles/webrtc-audio-process.dir
+/home/zhihui/work/project/prjANS/WebRTC-audio-processing/bin/CMakeFiles/audio_proc_test.dir
+/home/zhihui/work/project/prjANS/WebRTC-audio-processing/bin/CMakeFiles/edit_cache.dir
+/home/zhihui/work/project/prjANS/WebRTC-audio-processing/bin/CMakeFiles/rebuild_cache.dir
